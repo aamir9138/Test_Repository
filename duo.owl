@@ -21,7 +21,7 @@
         <dc:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melanie Courtot</dc:creator>
         <terms:license>http://creativecommons.org/licenses/by/4.0/</terms:license>
         <terms:title>Example Title</terms:title>
-        <doap:mailing_list>Example mailing list</doap:mailing_list>
+        <doap:tracker>Example tracker</doap:tracker>
     </owl:Ontology>
     
 
