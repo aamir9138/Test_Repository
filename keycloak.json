@@ -1,5 +1,6 @@
 {
   "realm": "myapp",
-  "url": "http://localhost:8080/",
-  "clientId": "myapp"
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "myapp"
 }
